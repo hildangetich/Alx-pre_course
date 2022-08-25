@@ -1,2 +1,3 @@
-#!/bin/bash
-echo "ALX School"
+echo ‘#!/bin/bash’ >alx
+echo “ALX School” >>alx
+
